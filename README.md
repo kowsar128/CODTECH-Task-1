@@ -21,25 +21,30 @@ The objective of the **Basic Calculator using Java** project is to develop a sim
 
 Key Activities
 
-*Project Setup:
+1 Project Setup:
    Set up the Java development environment (e.g., install JDK, configure an IDE like 
    Eclipse or IntelliJ IDEA).
-*Design the Calculator Logic:
+
+2 Design the Calculator Logic:
    Plan how the calculator should handle input, perform calculations, and display 
    results.
    Define valid inputs (numbers, operators) and output formatting.
-*Implement Arithmetic Operations:
+
+3 Implement Arithmetic Operations:
    Write code to perform the four basic operations: addition, subtraction, 
    multiplication, and division.
    Ensure the calculator works correctly for various inputs, including negative numbers, 
    decimals, etc.
-*Error Handling and Validation:
+   
+4 Error Handling and Validation:
    Implement checks for invalid operators and handle division by zero cases.
    Provide meaningful error messages to the user.
-*Testing and Debugging:
+
+5 Testing and Debugging:
    Test the application with different inputs and edge cases.
    Debug any issues (like incorrect results or input errors).
-*Enhancements (Optional):
+
+6 Enhancements (Optional):
    Add more advanced features like square root, exponentiation, memory storage (for 
    recalling previous results), etc.
    Convert the console-based version to a GUI-based calculator using Swing or JavaFX (if 
@@ -47,15 +52,18 @@ Key Activities
 
 Technologies Used
 
-*Programming Language:
+1 Programming Language:
     Java: A widely-used, object-oriented programming language that forms the core of this 
           project.
-*Development Environment:
+
+2 Development Environment:
     JDK (Java Development Kit): Required to compile and run Java programs.
     IDE (Integrated Development Environment): Tools like IntelliJ IDEA, Eclipse, or 
                                          NetBeans are commonly used for Java development.
-*Libraries/Packages:
+
+3 Libraries/Packages:
    java.util.Scanner: Used to capture user input from the console.
-*Optional (for GUI version):
+
+4 Optional (for GUI version):
    Swing or JavaFX: Frameworks to build graphical user interfaces in Java, if you wish to 
                     extend the project into a GUI-based calculator.
